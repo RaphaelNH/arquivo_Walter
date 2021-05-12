@@ -1,0 +1,83 @@
+{
+    "root/":{
+        "users":{
+            "userID":{
+                "endereco": {
+                    "rua": "Rua deu ruim",
+                    "bairro": "Corre mlk",
+                    "cidade": "De Deus",
+                    "estado": "Doente, quase morto",
+                    "N_da_casa": 24,
+                    "complemento": "baby baby du biruleibi leibi"
+                },
+                "CEP":12345678,
+                "CPF":12345678901,
+                "nome":"Carinha",
+                "sobrenome":"Que Mora Logo Ali",
+                "numero(cel)":"40028922",
+                "email":"eusoueu@gmail.com",
+                "twitter":"@éeu",
+                "facebook":"eumermo",
+                "instagram":"@eudenovo"
+            },
+            "userID2": {
+                "...":"..."
+            }
+         },
+        "site":{
+            "redes":{
+                "twitter":"",
+                "facebook":"",
+                "instagram":"",
+                "whatsapp":""
+            }
+        },
+        "produtos":{
+            "categorias":{
+                "ID1": {
+                    "preco": 1.23,
+                    "descricao":"",
+                    "foto":"link_foto",
+                    "quantidade":69
+                },
+                "ID2":{
+                    "preco": 1.23,
+                    "descricao":"",
+                    "foto":"link_foto",
+                    "quantidade":69
+                }
+        },
+        "pagamentos":["cartao","pix","boleto"],
+        "entregas":false,
+        "horariosdefunc":{
+            "aberto":"Aberto das XX:XX até as YY:YY",
+            "fechado":"Fechado nos finais de semana"
+        },
+        "avaliacoes":{
+                "USERID":{
+                    "nome":"fulano-acola",
+                    "produto":"codigo-do-produto",
+                    "avaliacao":"esse produto é massa",
+                    "estrela": 5
+                },
+                "USERID2":{
+                    "nome":"fulano-numseiladasconta",
+                    "produto":"codigo-do-produto",
+                    "avaliacao":"esse produto é pior que o flamengo",
+                    "estrela": 1
+                }
+            },
+            "loja_categoria":{
+                "lojaID1":{
+                    "categoria":"pastelaria"
+                },
+                "lojaID2":{
+                    "categoria":"hamburgeria"
+                },
+                "LojaID3":{
+                    "categoria":"loja de assai"
+                }
+            }
+        }
+    }
+}    
