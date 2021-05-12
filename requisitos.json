@@ -68,6 +68,21 @@
                 },
                 "LojaID3":{
                     "categoria":"loja de assai"
+                },
+                "LojaID4":{
+                    "categoria":""
+                },
+                "LojaID5":{
+                    "categoria":""
+                },
+                "LojaID6":{
+                    "categoria":""
+                },
+                "LojaID7":{
+                    "categoria":""
+                },
+                "LojaID8":{
+                    "categoria":""
                 }
             }
         }
