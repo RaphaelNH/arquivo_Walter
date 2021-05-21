@@ -24,6 +24,14 @@
                 "...":"..."
             }
          },
+        "site":{
+            "redes":{
+                "twitter":"",
+                "facebook":"",
+                "instagram":"",
+                "whatsapp":""
+            }
+        },
         "produtos":{
             "categorias":{
                 "ID1": {
@@ -67,22 +75,255 @@
                     "categoria":"hamburgeria"
                 },
                 "LojaID3":{
-                    "categoria":"loja de assai"
+                    "categoria":"assaiteria"
                 },
                 "LojaID4":{
-                    "categoria":""
+                    "categoria":"lanchonete"
                 },
                 "LojaID5":{
-                    "categoria":""
+                    "categoria":"mercantil",
+                    "produtos":{
+                        "brinquedos":{
+                            "nome":"",
+                            "preco":12
+                        },
+                        "comidas":{
+                            "nome":"",
+                            "preco":1.21
+                        },
+                        "bebidas":{
+                            "nome":"",
+                            "preco":21
+                        },
+                        "limpeza":{
+                            "nome":"",
+                            "preco":31
+                        },
+                        "higiene":{
+                            "nome":"",
+                            "preco":123
+                        },
+                        "roupas":{
+                            "nome":"",
+                            "preco":34
+                        }
+                    }
                 },
                 "LojaID6":{
-                    "categoria":""
+                    "categoria":"restaurante",
+                    "cardapio":{
+                        "nome_comida":"",
+                        "preco_comida":100,
+                        "nome_bebida":"",
+                        "preco_bebida":101
+                    }
                 },
                 "LojaID7":{
-                    "categoria":""
+                    "categoria":"loja_roupas",
+                    "calcados":{
+                        "marca":"",
+                        "preco":102,
+                        "tamanho":24
+                    },
+                    "camisas":{
+                        "marca":"",
+                        "preco":102,
+                        "tamanho":["M","P","G","GG"]
+                    },
+                    "calças":{
+                        "marca":"",
+                        "preco":102,
+                        "tamanho":["M","P","G","GG"]
+                    },
+                    "chapeus":{
+                        "marca":"",
+                        "preco":102
+                    },
+                    "shorts":{
+                        "marca":"",
+                        "preco":102,
+                        "tamanho":["36","38","40","42","44","..."]
+                    },
+                    "acessorios":{
+                        "marca":"",
+                        "preco":102
+                    }
                 },
                 "LojaID8":{
-                    "categoria":""
+                    "categoria":"oficina",
+                    "peças":{
+                        "nome":"",
+                        "preco":""
+                    }    
+                },
+                "LojaID9":{
+                    "categoria":"salão_beleza",
+                    "servicos":{
+                        "manicure":12,
+                        "pedicure":13,
+                        "depilação":14,
+                        "cabelo":15,
+                        "pele":20
+                    },
+                    "agendamento":true
+                },
+                "LojaID10":{
+                    "categoria":"loja_moveis",
+                    "tipos_moveis":{
+                        "cozinha":{
+                            "marca":"",
+                            "preco":"",
+                            "imagem":"URL",
+                            "descricao":""
+                        },
+                        "sala_de_estar":{
+                            "marca":"",
+                            "preco":"",
+                            "imagem":"URL",
+                            "descricao":""
+                        },
+                        "banheiro":{
+                            "marca":"",
+                            "preco":"",
+                            "imagem":"URL",
+                            "descricao":""
+                        },
+                        "quarto":{
+                            "marca":"",
+                            "preco":"",
+                            "imagem":"URL",
+                            "descricao":""
+                        },
+                        "decorações":{
+                            "marca":"",
+                            "preco":"",
+                            "imagem":"URL",
+                            "descricao":""
+                        }
+                    }
+                },
+                "LojaID11":{
+                    "categoria":"loja_biciletas",
+                    "produtos":{
+                        "peça":{
+                            "nome":"",
+                            "preco":1234
+                        },
+                        "servicos":{
+                            "nome":"",
+                            "descricao":"",
+                            "preco":12
+                        }
+                    }
+                },
+                "LojaID12":{
+                    "categoria":"farmacia",
+                    "produtos":{
+                        "remedios":{
+                            "nome":"",
+                            "preco":123
+                        },
+                        "fraldas":{
+                            "marca":"",
+                            "preco":14,
+                            "tamanho":["M","P","G","GG"]
+                        },
+                        "acessorios":{
+                            "marca":"",
+                            "preco":1.23
+                        },
+                        "bebidas":{
+                            "tipo":"",
+                            "preco:":123
+                        }
+                    },
+                    "consulta":true
+                },
+                "LojaID13":{
+                    "categoria":"panificadora",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    }
+                },
+                "LojaID14":{
+                    "categoria":"papelaria",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    },
+                    "recarga":true
+                },
+                "LojaID15":{
+                    "categoria":"loja_maquiagem",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    }
+                },
+                "LojaID16":{
+                    "categoria":"frigorifico",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    }
+                },
+                "LojaID17":{
+                    "categoria":"cabelereiro",
+                    "servicos":{
+                        "luzes": 12,
+                        "alizar": 13,
+                        "corte": 11
+                    }
+                },
+                "lojaID18":{
+                    "categoria":"material_construção",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    },
+                    "entregas":true
+                },
+                "lojaID19":{
+                    "categoria":"deposito_bebidas",
+                    "produto":{
+                        "nome":"",
+                        "preco":1234
+                    },
+                    "entregas":false,
+                    "aluguel":false
+                },
+                "lojaID20":{
+                    "categoria":"loja_pescaria",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    },
+                    "aluguel": true
+                },                       
+                "lojaID21":{
+                    "categoria":"loja_brinquedos",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    }
+                },
+                "lojaID22":{
+                    "categoria":"otica",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    },
+                    "exame_vista":true,
+                    "conserto":"preco"
+                },
+                "lojaID23":{
+                    "categoria":"loja_jardinagem",
+                    "produtos":{
+                        "nome":"",
+                        "preco":1234
+                    },
+                    "servicos":["PREENCHER AQUI"]
                 }
             }
         }
