@@ -69,28 +69,28 @@
             },
             "loja_categoria":{
                 "lojaID1":{
-                    "categoria":"pastelaria"
+                    "categoria":"pastelaria",
                     "produtos":{
                         "nome":"",
                         "preco":12
                     }
                 },
                 "lojaID2":{
-                    "categoria":"hamburgeria"
+                    "categoria":"hamburgeria",
                     "produtos":{
                     "nome":"",
                         "preco":12
                     }
                 },
                 "LojaID3":{
-                    "categoria":"assaiteria"
+                    "categoria":"assaiteria",
                     "produtos":{
                     "nome":"",
                     "preco":12
                     }
                 },
                 "LojaID4":{
-                    "categoria":"lanchonete"
+                    "categoria":"lanchonete",
                     "produtos":{
                     "nome":"",
                     "preco":12
