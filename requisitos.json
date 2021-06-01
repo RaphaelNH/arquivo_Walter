@@ -32,42 +32,254 @@
                 "whatsapp":""
             }
         },
-        "produtos":{
-            "categorias":{
-                "ID1": {
-                    "preco": 1.23,
-                    "descricao":"",
-                    "foto":"link_foto",
-                    "quantidade":69
-                },
-                "ID2":{
-                    "preco": 1.23,
-                    "descricao":"",
-                    "foto":"link_foto",
-                    "quantidade":69
-                }
-        },
-        "pagamentos":["cartao","pix","boleto"],
-        "entregas":false,
-        "horariosdefunc":{
-            "aberto":"Aberto das XX:XX até as YY:YY",
-            "fechado":"Fechado nos finais de semana"
-        },
-        "avaliacoes":{
-                "USERID":{
-                    "nome":"fulano-acola",
-                    "produto":"codigo-do-produto",
-                    "avaliacao":"esse produto é massa",
-                    "estrela": 5
-                },
-                "USERID2":{
-                    "nome":"fulano-numseiladasconta",
-                    "produto":"codigo-do-produto",
-                    "avaliacao":"esse produto é pior que o flamengo",
-                    "estrela": 1
+        "afiliados":{
+            "Pastelaria":{
+                "NUMERO_ID":{
+                    "nome":"Pasteis Nobres",
+                    "slogan":"Só os pasteis da mais fina qualidade!",
+                    "descricao":"Loja de pastel",
+                    "coordenadas":{
+                        "lat":"-7.313190",
+                        "alt":"-38.945579"
+                    },
+                    "contatos":{
+                        "instagram":"@pastel",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito", "Pix"],
+                    "categoria":"Pastelaria",
+                    "entregas":true,
+                    "funcionamento":{
+                        "aberto":"Aberto das 16:00 às 21:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliações":{
+                        "ID_aval":{
+                            "nome":"Juca das Banca",
+                            "avaliacao":"Pastel bom danado!",
+                            "estrelas": 5
+                        },
+                        "ID2_aval":{
+                            "nome":"Takakara Nomuro",
+                            "avaliacao":"Pastel bom sim!",
+                            "estrelas": 5
+                        }
+                    }
                 }
             },
-            "categorias":{
+            "Hamburgeria":{
+                "NUMERO_ID":{
+                    "nome":"Hamburger Jones",
+                    "slogan":"Esse hamburger é uma aventura!",
+                    "descricao":"Loja de Hamburger",
+                    "coordenadas":{
+                        "lat":"-7.312540863135478",
+                        "alt":"-38.947046169179046"
+                    },
+                    "contatos":{
+                        "instagram":"@hamburger",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Hamburgeria",
+                    "entregas":true,
+                    "funcionamento":{
+                        "aberto":"Aberto das 16:00 às 21:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliações":{
+                        "ID_aval":{
+                            "nome":"Fuderu Kaminhamoto",
+                            "avaliacao":"Muito bom! Só faltava o dog.",
+                            "estrelas": 4
+                        }
+                    }
+                }
+            },    
+            "Assaiteria":{
+                "NUMERO_ID":{
+                     "nome":"Assaídinhas",
+                     "slogan":"Venha comer do melhor!",
+                     "descricao":"Loja de assaí",
+                     "coordenadas":{
+                         "lat":"-7.314549455697281",
+                         "alt":"-38.94593841682606"
+                     },
+                     "contatos":{
+                         "instagram":"@assaideira",
+                         "zap":"link_zap"
+                     },
+                     "pagamentos":["Cartão de crédito","Pix"],
+                     "categoria":"Assaiteria",
+                     "entregas":false,
+                     "funcionamento":{
+                         "aberto":"Aberto das 16:00 às 21:00",
+                         "fechado":"Fechado aos sábados e domingos"
+                     },
+                     "logo_url":"link",
+                     "avaliações":{
+                            "ID_aval":{
+                            "nome":"Ku Shai Shang",
+                            "avaliacao":"Não tem flango!!",
+                            "estrelas": 1
+                            },
+                            "ID2_aval":{
+                                "nome":"Naida Navinda Navolta Pereira",
+                                "avaliacao":"Gostei!Pena que não fazem entregas.",
+                                "estrelas": 4
+                            }
+                        }
+                    }    
+                },
+            "Lanchonete":{
+                "NUMERO_ID":{
+                    "nome":"Lanchinho Da Tarde",
+                    "slogan":"Vem comer aqui!",
+                    "descricao":"Loja de lanches",
+                    "coordenadas":{
+                        "lat":"-7.312796260805754",
+                        "alt":"-38.94496477496719"
+                    },
+                    "contatos":{
+                        "instagram":"@lanchinho",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Lanchonete",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto das 13:00 às 18:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Dolores Fuertes de Barriga",
+                            "avaliacao":"Amei!",
+                            "estrelas": 3
+                        }
+                    }
+                }    
+            },
+            "Mercantil":{
+                "NUMERO_ID":{
+                    "nome":"Mercantil Geral",
+                    "slogan":"Tudo que você precisa!",
+                    "descricao":"Mercantil para tudo",
+                    "coordenadas":{
+                        "lat":"-7.313716755482372",
+                        "alt":"-38.94560850511715"
+                    },
+                    "contatos":{
+                        "instagram":"@mercantilgeral",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                    "categoria":"Mercantil",
+                    "entregas":true,
+                    "funcionamento":{
+                        "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                        "fechado":"Fechado aos feriados"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Hypotenusa Pereira",
+                            "avaliacao":"São lentos pra calcular o preço!",
+                            "estrelas": 3
+                        },
+                        "ID2_aval":{
+                            "nome":"Olinda Barba de Jesus",
+                            "avaliacao":"Gostei!!!",
+                            "estrelas": 5
+                        },
+                        "ID3_aval":{
+                            "nome":"Gohan Muniz Lopes",
+                            "avaliacao":"Tava só procurando um pai, mas gostei!",
+                            "estrelas": 4
+                        }
+                    }
+                }    
+            },
+            "Restaurante":{
+                "NUMERO_ID":{
+                    "nome":"Restaurante Nacional",
+                    "slogan":"O melhor do país",
+                    "descricao":"Restaurante com comidas de todos os estados",
+                    "coordenadas":{
+                        "lat":"-7.308273571435737",
+                        "alt":"-38.939417966760274"
+                    },
+                    "contatos":{
+                        "instagram":"@restaurantenacional",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Restaurante",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto 13:00 às 16:00 e das 18:00 às 22:00",
+                        "fechado":"Fechado aos feriados"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Parabaldo",
+                            "avaliacao":"Serviço lento, mas de qualidade.",
+                            "estrelas": 3
+                        },
+                        "ID2_aval":{
+                            "nome":"Faraó do Egito Sousa",
+                            "avaliacao":"Ótimo serviço!",
+                            "estrelas": 5
+                        }
+                    }
+                }    
+            },
+            "Loja de Roupas":{
+                "NUMERO_ID":{
+                    "nome":"Rich Roupas",
+                    "slogan":"Roupas que te representam!",
+                    "descricao":"Loja de roupas",
+                    "coordenadas":{
+                        "lat":"-7.309976236293748",
+                        "alt":"-38.94494331727351"
+                    },
+                    "contatos":{
+                        "instagram":"@rroupas",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                    "categoria":"Loja de Roupas",
+                    "entregas":true,
+                    "funcionamento":{
+                        "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                        "fechado":"Fechado nos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Letsgo Daqui",
+                            "avaliacao":"Roupas horrorosas!",
+                            "estrelas": 1
+                        },
+                        "ID2_aval":{
+                            "nome":"Tarzan da Costa",
+                            "avaliacao":"Me senti um rei!",
+                            "estrelas": 5
+                        }
+                    }
+                }    
+            },
+            "Oficina":{
+                "NUMERO_ID":{
+                    "nome":""
+                }
+            }    
+        },
+        "categorias":{
                 "lojaID1":{
                     "categoria":"Pastelaria"
                 },
@@ -144,7 +356,7 @@
                     "categoria":"Boutique"
                 },
                 "lojaID26":{
-                    "Outros"
+                    "categoria":"Outros"
                 }    
             }
         }
