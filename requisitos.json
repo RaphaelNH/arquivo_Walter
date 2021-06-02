@@ -720,7 +720,7 @@
             }
         } 
     },
-    "Lojadebrinquedos":{
+    "Loja de brinquedos":{
                 "NUMERO_ID":{
                 "nome":"Mundo dos brinquedos",
                 "slogan":"Brinquedos para todo tipo de criança!",
@@ -733,7 +733,7 @@
                 "instagram":"@mundodosbrinquedos01",
                 "zap":"link_zap"},
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"brinquedos",
+                "categoria":"Loja de brinquedos",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
@@ -797,7 +797,7 @@
             }
         }
     },
-    "Lojadejardinagem":{
+    "Loja de jardinagem":{
                 "NUMERO_ID":{
                 "nome":"Jardim dos sonhos",
                 "slogan":"As melhores flores da cidade!",
@@ -811,7 +811,7 @@
                 "zap":"link_zap"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Plantas",
+                "categoria":"Loja de jardinagem",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 7:00 às 10:00 e das 13:00 às 15:00",
@@ -836,7 +836,7 @@
             }
         }
     },
-    "Petshop":{
+    "Pet shop":{
                 "NUMERO_ID":{
                 "nome":"PetShop da Alice",
                 "slogan":"Cuidamos muito bem do seu animal zinho!",
@@ -850,7 +850,7 @@
                 "zap":"link_zap"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"petshop",
+                "categoria":"Pet shop",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 18:00",
@@ -889,7 +889,7 @@
                 "zap":"link_zap"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"boutique",
+                "categoria":"Boutique",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:30 às 16:30",
