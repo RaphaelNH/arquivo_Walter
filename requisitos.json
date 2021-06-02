@@ -54,7 +54,7 @@
                         "fechado":"Fechado aos sábados e domingos"
                     },
                     "logo_url":"link",
-                    "avaliações":{
+                    "avaliacoes":{
                         "ID_aval":{
                             "nome":"Juca das Banca",
                             "avaliacao":"Pastel bom danado!",
@@ -89,7 +89,7 @@
                         "fechado":"Fechado aos sábados e domingos"
                     },
                     "logo_url":"link",
-                    "avaliações":{
+                    "avaliacoes":{
                         "ID_aval":{
                             "nome":"Fuderu Kaminhamoto",
                             "avaliacao":"Muito bom! Só faltava o dog.",
@@ -119,7 +119,7 @@
                          "fechado":"Fechado aos sábados e domingos"
                      },
                      "logo_url":"link",
-                     "avaliações":{
+                     "avaliacoes":{
                             "ID_aval":{
                             "nome":"Ku Shai Shang",
                             "avaliacao":"Não tem flango!!",
@@ -275,10 +275,646 @@
             },
             "Oficina":{
                 "NUMERO_ID":{
-                    "nome":""
+                    "nome":"Mão na Roda",
+                    "slogan":"Essa oficina é uma mão na roda!",
+                    "descricao":"Oficina mecânica",
+                    "coordenadas":{
+                        "lat":"-7.311024436174545",
+                        "alt":"-38.954180845014236"
+                    },
+                    "contatos":{
+                        "instagram":"@maonaroda",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito"],
+                    "categoria":"Oficina",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto das 13:00 às 18:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                        "nome":"Free William da Silva",
+                        "avaliacao":"Foi bom.",
+                        "estrelas": 2
+                        }
+                    }
                 }
-            }    
+            },
+            "Salão de Beleza":{
+                "NUMERO_ID":{
+                    "nome":"Beldades",
+                    "slogan":"Venha se tornar uma de nossas beldades",
+                    "descricao":"Salao para tratamentos capilares, manicure e pedicure",
+                    "coordenadas":{
+                        "lat":"-7.308119267110751",
+                        "alt":"-38.94613421808304"
+                    },
+                    "contatos":{
+                        "instagram":"@beldades",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Salão de beleza",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto das 13:00 às 18:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Padre Filho do Espírito Santo Amém",
+                            "avaliacao":"Adorei a manicure!",
+                            "estrelas": 5
+                        },
+                        "ID2_aval":{
+                            "nome":"Esparadrapo Clemente de Sá",
+                            "avaliacao":"Um pouco cheio, mas o serviço é bom",
+                            "estrelas": 4
+                        }
+                    }
+                }
+            },
+            "Loja de móveis":{
+                "NUMERO_ID":{
+                    "nome":"Mário Móveis",
+                    "slogan":"O mário quer mostrar o armário para você!",
+                    "descricao":"Loja de móveis diversos",
+                    "coordenadas":{
+                        "lat":"-7.313205960955761",
+                        "alt":"-38.94509352096861"
+                    },
+                    "contatos":{
+                        "instagram":"@omario",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                    "categoria":"Loja de móveis",
+                    "entregas":true,
+                    "funcionamento":{
+                        "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                        "fechado":"Fechado aos feriados"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Antônio Morrendo das Dores",
+                            "avaliacao":"Não achei o que procurava.",
+                            "estrelas": 1
+                        },
+                        "ID2_aval":{
+                            "nome":"Elvis Presley da Silva",
+                            "avaliacao":"Gostei muito do atendimento.",
+                            "estrelas": 4
+                        }
+                    }
+                }
+            },
+            "Loja de Bicicletas":{
+                "NUMERO_ID":{
+                    "nome":"Rodinhas",
+                    "slogan":"Venha buscar a sua!",
+                    "descricao":"Loja de bicicletas",
+                    "coordenadas":{
+                        "lat":"-7.310268881190849",
+                        "alt":"-38.94434250243976"
+                    },
+                    "contatos":{
+                        "instagram":"@rodinhas",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito"],
+                    "categoria":"Loja de bicicletas",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto das 13:00 às 18:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Jaspion Brasileiro Dantas Garcia",
+                            "avaliacao":"Serviço rápido e bom.",
+                            "estrelas": 5
+                        }
+                    }
+                }
+            },
+            "Fármacia":{
+                "NUMERO_ID":{
+                    "nome":"Fármacia R&C",
+                    "slogan":"Venha rir conosco!",
+                    "descricao":"Loja de fármacos",
+                    "coordenadas":{
+                        "lat":"-7.314936790112304",
+                        "alt":"-38.94470609317358"
+                    },
+                    "contatos":{
+                        "instagram":"@rir",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Farmácia",
+                    "entregas":true,
+                    "funcionamento":{
+                        "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                        "fechado":"Fechado aos feriados"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"João Manuel Portas",
+                            "avaliacao":"Num instante melhorei!",
+                            "estrelas": 5
+                        },
+                        "ID2_aval":{
+                            "nome":"Manuel Sola de Sá Pato",
+                            "avaliacao":"Fui muito bem tratado.",
+                            "estrelas": 4
+                        },
+                        "ID3_aval":{
+                            "nome":"Passamão Nocorrimão",
+                            "avaliacao":"Serviço um pouco medíocre",
+                            "estrelas": 3
+                        }
+                    }
+                }
+            },
+            "Panificadora":{
+                "NUMERO_ID":{
+                    "nome":"Panificadora Beta",
+                    "slogan":"O pão chega derrete na boca!",
+                    "descricao":"Loja de pães e confeitaria",
+                    "coordenadas":{
+                        "lat":"-7.306444778739947",
+                        "alt":"-38.94262469917422"
+                    },
+                    "contatos":{
+                        "instagram":"@beta",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Panificadora",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                        "fechado":"Fechado aos domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Timétio Pinto",
+                            "avaliacao":"O pão realmente é gostoso!",
+                            "estrelas": 5
+                        }
+                    }
+                }
+            },
+            "Papelaria":{
+                "NUMERO_ID":{
+                    "nome":"Papel Pra Nois",
+                    "slogan":"Papel pra todo mundo!",
+                    "descricao":"Loja de artigos relacionados a papel",
+                    "coordenadas":{
+                        "lat":"-7.3071909510027435",
+                        "alt":"-38.95025899846201"
+                    },
+                    "contatos":{
+                        "instagram":"@papelnosso",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Papelaria",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto das 13:00 às 16:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Luíz Juíz Da Silva",
+                            "avaliacao":"Atendimento nota 10!",
+                            "estrelas": 5
+                        }
+                    }
+                }
+            },
+            "Loja de Maquiagem":{
+                "NUMERO_ID":{
+                    "nome":"FacePaint",
+                    "slogan":"Venha se revolucionar também!",
+                    "descricao":"Loja de maquiagem",
+                    "coordenadas":{
+                        "lat":"-7.315544718821863",
+                        "alt":"-38.94238692002166"
+                    },
+                    "contatos":{
+                        "instagram":"@make",
+                        "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix"],
+                    "categoria":"Loja de maquiagem",
+                    "entregas":false,
+                    "funcionamento":{
+                        "aberto":"Aberto das 13:00 às 18:00",
+                        "fechado":"Fechado aos sábados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                        "ID_aval":{
+                            "nome":"Walter dos Santos",
+                            "avaliacao":"Me sinto novo em folha!",
+                            "estrelas": 5
+                        }
+                    }
+                }
+            },
+            "Frigorífico":{
+                "NUMERO_ID":{
+                    "nome":"Frigorífico São Pedro ",
+                    "slogan":"Carne de qualidade e aqui!",
+                    "descricao":"Carne de qualidade se encontra aqui ",
+                    "coordenadas":{
+                        "lat":"-7.31371675548006",
+                        "alt":"-38.9456085033449"
+                    },
+                    "contatos":{
+                    "instagram":"@frigorificosaopedro10",
+                    "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                    "categoria":"frigorífico ",
+                    "entregas":true,
+                    "funcionamento":{
+                    "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                    "fechado":"Fechado aos feriados"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{
+                    "ID_aval":{
+                        "nome":"Francelino Júnior ",
+                        "avaliacao":"atendimento ruim",
+                        "estrelas": 3
+                    },
+                    "ID2_aval":{
+                        "nome":"Rolim de Amaral ",
+                        "avaliacao":"Gostei!!!", "estrelas": 5
+                    },
+                    "ID3_aval":{
+                        "nome":"Muniz Silva neto ",
+                        "avaliacao":"Só um pouco de demora no caixa !",
+                        "estrelas": 4
+                    }
+                    }
+                } 
+            },
+            "Cabeleireiro":{
+                "NUMERO_ID":{
+                    "nome":"Arnaldo Cabeleleiro ",
+                    "slogan":"Aqui cuidamos bem de seu cabelo !",
+                    "descricao":"Cabeleleiro de qualidade e aqui ",
+                    "coordenadas":{
+                    "lat":"-7.30997623629334",
+                    "alt":"-38.944943317333"
+                    },
+                    "contatos":{
+                    "instagram":"@arnaldocabeleleiro",
+                    "zap":"link_zap"
+                    },
+                    "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                    "categoria":"Cabeleleiro",
+                    "funcionamento":{
+                    "aberto":"Aberto das 8:00 às 12:00 e das 14:00 às 19:00",
+                    "fechado":"Fechado apenas nos feriados e domingos"
+                    },
+                    "logo_url":"link",
+                    "avaliacoes":{ 
+                    "ID_aval":{
+                    "nome":"Teobaldo Silva ",
+                    "avaliacao":"Excelente preço!",
+                    "estrelas": 5
+                    },
+                    "ID2_aval":{
+                    "nome":"joao da Costa ",
+                    "avaliacao":"corta muito rápido !",
+                    "estrelas": 3
+                    }
+                }
+            } 
         },
+        "Material de construção":{
+            "NUMERO_ID":{
+                "nome":"Casa das construções ",
+                "slogan":"Material de qualidade se encontra aqui ",
+                "descricao":"o material mais barato da cidade",
+                "coordenadas":{
+                "lat":"-7.31371675548006",
+                "alt":"-38.9456085033449"
+                },
+                "contatos":{
+                "instagram":"@pedefeijao",
+                "zap":"link_zap"
+                },
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"material de construção ",
+                "entregas":true,
+                "funcionamento":{
+                "aberto":"Aberto das 7:00 às 11:00 e das 13:00 às 16:30",
+                "fechado":"Fechado aos feriados e domingos "
+                },
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{
+                "nome":"Júnior ",
+                "avaliacao":"atendimento de qualidade ",
+                "estrelas": 5
+                },
+                "ID2_aval":{
+                "nome":"Amaral silva",
+                "avaliacao":"Gostei!!!",
+                "estrelas": 4
+                },
+                "ID3_aval":{ 
+                "nome":"Muniz Silva neto ",
+                "avaliacao":"Demora na entrega !",
+                "estrelas": 2
+                }
+            }
+        }
+    },
+        "Depósito de bebidas":{
+            "NUMERO_ID":{
+                "nome":"PA BEBIDAS ",
+                "slogan":"todo tipo de bebida vc encontra aqui",
+                "descricao":"o depósito mais barato da cidade ",
+                "coordenadas":{
+                "lat":"-7.31371675548006",
+                "alt":"-38.9456085033449"
+                },
+                "contatos":{
+                "instagram":"@victorrolim",
+                "zap":"link_zap"
+                },
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"material de construção ",
+                "entregas":true,
+                "funcionamento":{
+                "aberto":"Aberto das 7:00 às 11:00 e das 13:00 às 18:30",
+                "fechado":"Fechado aos feriados e domingos "
+                },
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{
+                "nome":"Pedro",
+                "avaliacao":"atendimento péssimo.",
+                "estrelas": 2
+                },
+                "ID2_aval":{
+                "nome":"Karine silva",
+                "avaliacao":"Gostei!!!",
+                "estrelas": 4
+                },
+                "ID3_aval":{
+                "nome":"Tete Morais",
+                "avaliacao":"Entrega rápido!",
+                "estrelas": 5
+                }
+            }
+        }
+    },
+    "Loja de pescaria":{
+            "NUMERO_ID":{
+                "nome":"Pesque bem", 
+                "slogan":"Tudo de pesca!",
+                "descricao":"pesque bem,venha conferir em nossa loja ",
+                "coordenadas":{
+                "lat":"-7.30997623629334",
+                "alt":"-38.944943317333"
+                },
+                "contatos":{
+                "instagram":"@pesquebem",
+                "zap":"link_zap"
+                },
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"Cabeleleiro",
+                "funcionamento":{
+                "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                "fechado":"Fechado apenas nos feriados e domingos"
+                },
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{
+                "nome":"Teo gutierres",
+                "avaliacao":"Excelente preço!",
+                "estrelas": 5
+                },
+                "ID2_aval":{
+                "nome":"tubão neto ",
+                "avaliacao":"tudo de pesca,recomendo!",
+                "estrelas": 5
+                }
+            }
+        } 
+    },
+    "Lojadebrinquedos":{
+                "NUMERO_ID":{
+                "nome":"Mundo dos brinquedos",
+                "slogan":"Brinquedos para todo tipo de criança!",
+                "descricao":"Brinquedos com até 1 ano de garantia",
+                "coordenadas":{
+                "lat":"-7.31371675548006",
+                "alt":"-38.9456085033449"
+                },
+                "contatos":{
+                "instagram":"@mundodosbrinquedos01",
+                "zap":"link_zap"},
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"brinquedos",
+                "entregas":true,
+                "funcionamento":{
+                "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                "fechado":"Fechado aos feriados, sábado e domingo"
+                },
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{
+                "nome":"Carlinho",
+                "avaliacao":"atendimento bom",
+                "estrelas":4
+                },
+                "ID2_aval":{
+                "nome":"Ricardo",
+                "avaliacao":"Gostei!!!",
+                "estrelas":5
+                },
+                "ID3_aval":{
+                "nome":"Lincoln",
+                "avaliacao":"Só um pouco de demora no caixa!",
+                "estrelas":4}
+                }
+            }
+        }
+    },
+    "Ótica":{
+                "NUMERO_ID":{
+                "nome":"ÓticasCarol",
+                "slogan":"Sua visão em primeiro lugar!",
+                "descricao":"Armação barata você encontra aqui!",
+                "coordenadas":{
+                "lat":"-7.31371675548006",
+                "alt":"-38.9456085033449"},
+                "contatos":{
+                "instagram":"@oticascarol11",
+                "zap":"link_zap"
+                },
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"ótica",
+                "entregas":true,
+                "funcionamento":{
+                "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
+                "fechado":"Fechado aos feriados, domingos"},
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{
+                "nome":"Sérgio",
+                "avaliacao":"atendimento ruim",
+                "estrelas":2
+                },
+                "ID2_aval":{
+                "nome":"Rolim de Amaral",
+                "avaliacao":"Gostei mas atendimento ruim",
+                "estrelas":3
+                 },
+                "ID3_aval":{
+                "nome":"Francisco",
+                "avaliacao":"Excelente!",
+                "estrelas":5
+                }
+            }
+        }
+    },
+    "Lojadejardinagem":{
+                "NUMERO_ID":{
+                "nome":"Jardim dos sonhos",
+                "slogan":"As melhores flores da cidade!",
+                "descricao":"Flores 100% verdadeiras",
+                "coordenadas":{
+                "lat":"-7.31371675548006",
+                "alt":"-38.9456085033449"
+                },
+                "contatos":{
+                "instagram":"@jardindossonhos67",
+                "zap":"link_zap"
+                },
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"Plantas",
+                "entregas":true,
+                "funcionamento":{
+                "aberto":"Aberto das 7:00 às 10:00 e das 13:00 às 15:00",
+                "fechado":"Fechado aos feriados"
+                },
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{
+                "nome":"Felipe",
+                "avaliacao":"atendimento legal",
+                "estrelas":5
+                },"ID2_aval":{
+                "nome":"Iagny",
+                "avaliacao":"Gostei!!!",
+                "estrelas":5
+                },
+                "ID3_aval":{
+                "nome":"Pedro",
+                "avaliacao":"Plantas muito caras!",
+                "estrelas":3
+                }
+            }
+        }
+    },
+    "Petshop":{
+                "NUMERO_ID":{
+                "nome":"PetShop da Alice",
+                "slogan":"Cuidamos muito bem do seu animal zinho!",
+                "descricao":"Especialista em banho e tosa",
+                "coordenadas":{
+                "lat":"-7.31371675548006",
+                "alt":"-38.9456085033449"
+                },
+                "contatos":{
+                "instagram":"@petdaalice",
+                "zap":"link_zap"
+                },
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"petshop",
+                "entregas":true,
+                "funcionamento":{
+                "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 18:00",
+                "fechado":"Fechado aos feriados, domingos"
+                },
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{"nome":"Ariel",
+                "avaliacao":"atendimento ruim",
+                "estrelas":1
+                },
+                "ID2_aval":{
+                "nome":"Edinaldo pereira",
+                "avaliacao":"Gostei!!!",
+                "estrelas":5
+                },
+                "ID3_aval":{
+                "nome":"Crihs",
+                "avaliacao":"Só um pouco de demora!",
+                "estrelas":4
+                }
+            }
+        }
+    },
+    "Boutique":{
+                "NUMERO_ID":{
+                "nome":"Boutique Milas",
+                "slogan":"As melhores marcas você encontra aqui!",
+                "descricao":"melhores marcas",
+                "coordenadas":{
+                "lat":"-7.31371675548006",
+                "alt":"-38.9456085033449"
+                },
+                "contatos":{
+                "instagram":"@boutiquemilas9",
+                "zap":"link_zap"
+                },
+                "pagamentos":["Cartão de crédito","Pix","Boleto"],
+                "categoria":"boutique",
+                "entregas":true,
+                "funcionamento":{
+                "aberto":"Aberto das 8:00 às 11:00 e das 13:30 às 16:30",
+                "fechado":"Fechado aos feriados"},
+                "logo_url":"link",
+                "avaliacoes":{
+                "ID_aval":{
+                "nome":"Júnior",
+                "avaliacao":"atendimento ruim mas preços bons",
+                "estrelas":4
+                },
+                "ID2_aval":{
+                "nome":"Paulo",
+                "avaliacao":"Gostei!!!",
+                "estrelas":5
+                },
+                "ID3_aval":{
+                "nome":"Samuel",
+                "avaliacao":"não gostei dos preços!",
+                "estrelas":3
+                }
+            }
+        }
+    },
+    "Outros":{},
         "categorias":{
                 "lojaID1":{
                     "categoria":"Pastelaria"
@@ -360,5 +996,4 @@
                 }    
             }
         }
-    }
-}    
+}     
