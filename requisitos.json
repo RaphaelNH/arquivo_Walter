@@ -303,7 +303,7 @@
                     }
                 }
             },
-            "Salão de Beleza":{
+            "Salão de beleza":{
                 "NUMERO_ID":{
                     "nome":"Beldades",
                     "slogan":"Venha se tornar uma de nossas beldades",
@@ -373,7 +373,7 @@
                     }
                 }
             },
-            "Loja de Bicicletas":{
+            "Loja de bicicletas":{
                 "NUMERO_ID":{
                     "nome":"Rodinhas",
                     "slogan":"Venha buscar a sua!",
@@ -403,9 +403,9 @@
                     }
                 }
             },
-            "Fármacia":{
+            "Farmácia":{
                 "NUMERO_ID":{
-                    "nome":"Fármacia R&C",
+                    "nome":"Farmácia R&C",
                     "slogan":"Venha rir conosco!",
                     "descricao":"Loja de fármacos",
                     "coordenadas":{
@@ -503,7 +503,7 @@
                     }
                 }
             },
-            "Loja de Maquiagem":{
+            "Loja de maquiagem":{
                 "NUMERO_ID":{
                     "nome":"FacePaint",
                     "slogan":"Venha se revolucionar também!",
@@ -547,7 +547,7 @@
                     "zap":"link_zap"
                     },
                     "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                    "categoria":"frigorífico ",
+                    "categoria":"Frigorífico ",
                     "entregas":true,
                     "funcionamento":{
                     "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
@@ -586,7 +586,7 @@
                     "zap":"link_zap"
                     },
                     "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                    "categoria":"Cabeleleiro",
+                    "categoria":"Cabeleireiro",
                     "funcionamento":{
                     "aberto":"Aberto das 8:00 às 12:00 e das 14:00 às 19:00",
                     "fechado":"Fechado apenas nos feriados e domingos"
@@ -620,7 +620,7 @@
                 "zap":"link_zap"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"material de construção ",
+                "categoria":"Material de construção",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 7:00 às 11:00 e das 13:00 às 16:30",
@@ -660,7 +660,7 @@
                 "zap":"link_zap"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"material de construção ",
+                "categoria":"Depósito de bebidas"
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 7:00 às 11:00 e das 13:00 às 18:30",
@@ -700,7 +700,7 @@
                 "zap":"link_zap"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Cabeleleiro",
+                "categoria":"Loja de pescaria",
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
                 "fechado":"Fechado apenas nos feriados e domingos"
@@ -761,7 +761,7 @@
     },
     "Ótica":{
                 "NUMERO_ID":{
-                "nome":"ÓticasCarol",
+                "nome":"Óticas Carol",
                 "slogan":"Sua visão em primeiro lugar!",
                 "descricao":"Armação barata você encontra aqui!",
                 "coordenadas":{
@@ -772,7 +772,7 @@
                 "zap":"link_zap"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"ótica",
+                "categoria":"Ótica",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
@@ -838,7 +838,7 @@
     },
     "Pet shop":{
                 "NUMERO_ID":{
-                "nome":"PetShop da Alice",
+                "nome":"Pet Shop da Alice",
                 "slogan":"Cuidamos muito bem do seu animal zinho!",
                 "descricao":"Especialista em banho e tosa",
                 "coordenadas":{
