@@ -576,7 +576,7 @@
                 "NUMERO_ID":{
                     "nome":"Arnaldo Cabeleleiro ",
                     "slogan":"Aqui cuidamos bem de seu cabelo !",
-                    "descricao":"Cabeleleiro de qualidade e aqui ",
+                    "descricao":"Cabeleleiro de qualidade e aqui",
                     "coordenadas":{
                     "lat":"-7.30997623629334",
                     "alt":"-38.944943317333"
@@ -664,7 +664,7 @@
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 7:00 às 11:00 e das 13:00 às 18:30",
-                "fechado":"Fechado aos feriados e domingos "
+                "fechado":"Fechado aos feriados e domingos"
                 },
                 "logo_url":"link",
                 "avaliacoes":{
@@ -690,7 +690,7 @@
             "NUMERO_ID":{
                 "nome":"Pesque bem", 
                 "slogan":"Tudo de pesca!",
-                "descricao":"pesque bem,venha conferir em nossa loja ",
+                "descricao":"pesque bem,venha conferir em nossa loja",
                 "coordenadas":{
                 "lat":"-7.30997623629334",
                 "alt":"-38.944943317333"
@@ -754,7 +754,8 @@
                 "ID3_aval":{
                 "nome":"Lincoln",
                 "avaliacao":"Só um pouco de demora no caixa!",
-                "estrelas":4}
+                "estrelas":4
+                }
                 }
             }
         }
@@ -776,7 +777,8 @@
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
-                "fechado":"Fechado aos feriados, domingos"},
+                "fechado":"Fechado aos feriados, domingos"
+                },
                 "logo_url":"link",
                 "avaliacoes":{
                 "ID_aval":{
