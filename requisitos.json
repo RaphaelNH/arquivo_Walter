@@ -8,17 +8,14 @@
                     "cidade": "De Deus",
                     "estado": "Doente, quase morto",
                     "N_da_casa": 24,
-                    "complemento": "baby baby du biruleibi leibi"
+                    "complemento": "baby baby du biruleibi leibi",
+                    "CEP":12345678,
+                    "CPF":12345678901
                 },
-                "CEP":12345678,
-                "CPF":12345678901,
                 "nome":"Carinha",
                 "sobrenome":"Que Mora Logo Ali",
                 "numero(cel)":"40028922",
-                "email":"eusoueu@gmail.com",
-                "twitter":"@éeu",
-                "facebook":"eumermo",
-                "instagram":"@eudenovo"
+                "email":"eusoueu@gmail.com"
             },
             "userID2": {
                 "...":"..."
@@ -44,7 +41,8 @@
                     },
                     "contatos":{
                         "instagram":"@pastel",
-                        "zap":"link_zap"
+                        "zap":"link_zap",
+                        "email":"meupastel@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito", "Pix"],
                     "categoria":"Pastelaria",
@@ -79,7 +77,8 @@
                     },
                     "contatos":{
                         "instagram":"@hamburger",
-                        "zap":"link_zap"
+                        "zap":"link_zap",
+                        "email":"hamburgao@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Hamburgeria",
@@ -109,7 +108,8 @@
                      },
                      "contatos":{
                          "instagram":"@assaideira",
-                         "zap":"link_zap"
+                         "zap":"link_zap",
+                         "email":"assaipramim@gmail.com"
                      },
                      "pagamentos":["Cartão de crédito","Pix"],
                      "categoria":"Assaiteria",
@@ -144,7 +144,8 @@
                     },
                     "contatos":{
                         "instagram":"@lanchinho",
-                        "zap":"link_zap"
+                        "zap":"link_zap",
+                        "email":"lanchinho@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Lanchonete",
@@ -174,7 +175,8 @@
                     },
                     "contatos":{
                         "instagram":"@mercantilgeral",
-                        "zap":"link_zap"
+                        "zap":"link_zap",
+                        "email":"mercantilg@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix","Boleto"],
                     "categoria":"Mercantil",
@@ -214,7 +216,8 @@
                     },
                     "contatos":{
                         "instagram":"@restaurantenacional",
-                        "zap":"link_zap"
+                        "zap":"link_zap",
+                        "email":"restaurantenac@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Restaurante",
@@ -249,7 +252,8 @@
                     },
                     "contatos":{
                         "instagram":"@rroupas",
-                        "zap":"link_zap"
+                        "zap":"link_zap",
+                        "email":"rroupas@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix","Boleto"],
                     "categoria":"Loja de Roupas",
@@ -284,7 +288,8 @@
                     },
                     "contatos":{
                         "instagram":"@maonaroda",
-                        "zap":"link_zap"
+                        "zap":"link_zap", 
+                        "email":"maonaroda@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito"],
                     "categoria":"Oficina",
@@ -303,7 +308,7 @@
                     }
                 }
             },
-            "Salão de beleza":{
+            "Salão de Beleza":{
                 "NUMERO_ID":{
                     "nome":"Beldades",
                     "slogan":"Venha se tornar uma de nossas beldades",
@@ -314,7 +319,8 @@
                     },
                     "contatos":{
                         "instagram":"@beldades",
-                        "zap":"link_zap"
+                        "zap":"link_zap", 
+                        "email":"beldades@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Salão de beleza",
@@ -349,7 +355,8 @@
                     },
                     "contatos":{
                         "instagram":"@omario",
-                        "zap":"link_zap"
+                        "zap":"link_zap", 
+                        "email":"omario@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix","Boleto"],
                     "categoria":"Loja de móveis",
@@ -373,7 +380,7 @@
                     }
                 }
             },
-            "Loja de bicicletas":{
+            "Loja de Bicicletas":{
                 "NUMERO_ID":{
                     "nome":"Rodinhas",
                     "slogan":"Venha buscar a sua!",
@@ -384,7 +391,8 @@
                     },
                     "contatos":{
                         "instagram":"@rodinhas",
-                        "zap":"link_zap"
+                        "zap":"link_zap", 
+                        "email":"rodinhas@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito"],
                     "categoria":"Loja de bicicletas",
@@ -403,9 +411,9 @@
                     }
                 }
             },
-            "Farmácia":{
+            "Fármacia":{
                 "NUMERO_ID":{
-                    "nome":"Farmácia R&C",
+                    "nome":"Fármacia R&C",
                     "slogan":"Venha rir conosco!",
                     "descricao":"Loja de fármacos",
                     "coordenadas":{
@@ -414,7 +422,8 @@
                     },
                     "contatos":{
                         "instagram":"@rir",
-                        "zap":"link_zap"
+                        "zap":"link_zap", 
+                        "email":"rcfarm@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Farmácia",
@@ -454,7 +463,8 @@
                     },
                     "contatos":{
                         "instagram":"@beta",
-                        "zap":"link_zap"
+                        "zap":"link_zap",
+                        "email":"panif@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Panificadora",
@@ -484,7 +494,8 @@
                     },
                     "contatos":{
                         "instagram":"@papelnosso",
-                        "zap":"link_zap"
+                        "zap":"link_zap", 
+                        "email":"pappranois@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Papelaria",
@@ -503,7 +514,7 @@
                     }
                 }
             },
-            "Loja de maquiagem":{
+            "Loja de Maquiagem":{
                 "NUMERO_ID":{
                     "nome":"FacePaint",
                     "slogan":"Venha se revolucionar também!",
@@ -514,7 +525,8 @@
                     },
                     "contatos":{
                         "instagram":"@make",
-                        "zap":"link_zap"
+                        "zap":"link_zap", 
+                        "email":"facepaint@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix"],
                     "categoria":"Loja de maquiagem",
@@ -544,10 +556,11 @@
                     },
                     "contatos":{
                     "instagram":"@frigorificosaopedro10",
-                    "zap":"link_zap"
+                    "zap":"link_zap", 
+                    "email":"fsp@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                    "categoria":"Frigorífico ",
+                    "categoria":"frigorífico ",
                     "entregas":true,
                     "funcionamento":{
                     "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
@@ -574,8 +587,8 @@
             },
             "Cabeleireiro":{
                 "NUMERO_ID":{
-                    "nome":"Arnaldo Cabeleleiro ",
-                    "slogan":"Aqui cuidamos bem de seu cabelo !",
+                    "nome":"Arnaldo Cabeleleiro",
+                    "slogan":"Aqui cuidamos bem de seu cabelo!",
                     "descricao":"Cabeleleiro de qualidade e aqui",
                     "coordenadas":{
                     "lat":"-7.30997623629334",
@@ -583,10 +596,11 @@
                     },
                     "contatos":{
                     "instagram":"@arnaldocabeleleiro",
-                    "zap":"link_zap"
+                    "zap":"link_zap", 
+                    "email":"arnaldodocabelo@gmail.com"
                     },
                     "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                    "categoria":"Cabeleireiro",
+                    "categoria":"Cabeleleiro",
                     "funcionamento":{
                     "aberto":"Aberto das 8:00 às 12:00 e das 14:00 às 19:00",
                     "fechado":"Fechado apenas nos feriados e domingos"
@@ -594,7 +608,7 @@
                     "logo_url":"link",
                     "avaliacoes":{ 
                     "ID_aval":{
-                    "nome":"Teobaldo Silva ",
+                    "nome":"Teobaldo Silva",
                     "avaliacao":"Excelente preço!",
                     "estrelas": 5
                     },
@@ -608,8 +622,8 @@
         },
         "Material de construção":{
             "NUMERO_ID":{
-                "nome":"Casa das construções ",
-                "slogan":"Material de qualidade se encontra aqui ",
+                "nome":"Casa das construções",
+                "slogan":"Material de qualidade se encontra aqui",
                 "descricao":"o material mais barato da cidade",
                 "coordenadas":{
                 "lat":"-7.31371675548006",
@@ -617,10 +631,11 @@
                 },
                 "contatos":{
                 "instagram":"@pedefeijao",
-                "zap":"link_zap"
+                "zap":"link_zap", 
+                "email":"casadaconstrucao@gmail.com"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Material de construção",
+                "categoria":"material de construção ",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 7:00 às 11:00 e das 13:00 às 16:30",
@@ -648,7 +663,7 @@
     },
         "Depósito de bebidas":{
             "NUMERO_ID":{
-                "nome":"PA BEBIDAS ",
+                "nome":"PA BEBIDAS",
                 "slogan":"todo tipo de bebida vc encontra aqui",
                 "descricao":"o depósito mais barato da cidade ",
                 "coordenadas":{
@@ -657,14 +672,15 @@
                 },
                 "contatos":{
                 "instagram":"@victorrolim",
-                "zap":"link_zap"
+                "zap":"link_zap", 
+                "email":"pabebidaspavoce@gmail.com"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Depósito de bebidas"
+                "categoria":"material de construção ",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 7:00 às 11:00 e das 13:00 às 18:30",
-                "fechado":"Fechado aos feriados e domingos"
+                "fechado":"Fechado aos feriados e domingos "
                 },
                 "logo_url":"link",
                 "avaliacoes":{
@@ -690,17 +706,18 @@
             "NUMERO_ID":{
                 "nome":"Pesque bem", 
                 "slogan":"Tudo de pesca!",
-                "descricao":"pesque bem,venha conferir em nossa loja",
+                "descricao":"pesque bem,venha conferir em nossa loja ",
                 "coordenadas":{
                 "lat":"-7.30997623629334",
                 "alt":"-38.944943317333"
                 },
                 "contatos":{
                 "instagram":"@pesquebem",
-                "zap":"link_zap"
+                "zap":"link_zap", 
+                "email":"pesquebem@gmail.com"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Loja de pescaria",
+                "categoria":"Cabeleleiro",
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
                 "fechado":"Fechado apenas nos feriados e domingos"
@@ -720,7 +737,7 @@
             }
         } 
     },
-    "Loja de brinquedos":{
+    "Lojadebrinquedos":{
                 "NUMERO_ID":{
                 "nome":"Mundo dos brinquedos",
                 "slogan":"Brinquedos para todo tipo de criança!",
@@ -731,9 +748,11 @@
                 },
                 "contatos":{
                 "instagram":"@mundodosbrinquedos01",
-                "zap":"link_zap"},
+                "zap":"link_zap", 
+                "email":"mundodebrincar@gmail.com"
+            },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Loja de brinquedos",
+                "categoria":"brinquedos",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
@@ -754,8 +773,7 @@
                 "ID3_aval":{
                 "nome":"Lincoln",
                 "avaliacao":"Só um pouco de demora no caixa!",
-                "estrelas":4
-                }
+                "estrelas":4}
                 }
             }
         }
@@ -770,15 +788,15 @@
                 "alt":"-38.9456085033449"},
                 "contatos":{
                 "instagram":"@oticascarol11",
-                "zap":"link_zap"
+                "zap":"link_zap", 
+                "email":"oticascarol@gmail.com"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Ótica",
+                "categoria":"ótica",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 16:00",
-                "fechado":"Fechado aos feriados, domingos"
-                },
+                "fechado":"Fechado aos feriados, domingos"},
                 "logo_url":"link",
                 "avaliacoes":{
                 "ID_aval":{
@@ -810,10 +828,11 @@
                 },
                 "contatos":{
                 "instagram":"@jardindossonhos67",
-                "zap":"link_zap"
+                "zap":"link_zap", 
+                "email":"seujardim@gmail.com"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Loja de jardinagem",
+                "categoria":"Plantas",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 7:00 às 10:00 e das 13:00 às 15:00",
@@ -838,9 +857,9 @@
             }
         }
     },
-    "Pet shop":{
+    "Petshop":{
                 "NUMERO_ID":{
-                "nome":"Pet Shop da Alice",
+                "nome":"PetShop da Alice",
                 "slogan":"Cuidamos muito bem do seu animal zinho!",
                 "descricao":"Especialista em banho e tosa",
                 "coordenadas":{
@@ -849,10 +868,11 @@
                 },
                 "contatos":{
                 "instagram":"@petdaalice",
-                "zap":"link_zap"
+                "zap":"link_zap", 
+                "email":"alicepets@gmail.com"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Pet shop",
+                "categoria":"petshop",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:00 às 18:00",
@@ -888,10 +908,11 @@
                 },
                 "contatos":{
                 "instagram":"@boutiquemilas9",
-                "zap":"link_zap"
+                "zap":"link_zap", 
+                "email":"milas@gmail.com"
                 },
                 "pagamentos":["Cartão de crédito","Pix","Boleto"],
-                "categoria":"Boutique",
+                "categoria":"boutique",
                 "entregas":true,
                 "funcionamento":{
                 "aberto":"Aberto das 8:00 às 11:00 e das 13:30 às 16:30",
